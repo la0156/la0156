@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Long</h1>
+<h1 align="center">👋, My name is Long</h1>
 
 - 👀 I’m interested in play chess, games, read books, watch movies, and e-sports.
 - 🌱 I'm currently a student at the University of Technical Education,my major is data engineer.
