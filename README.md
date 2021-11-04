@@ -30,8 +30,18 @@ In addition, I like the data industry partly because I have a passion for analys
 
 ## Certificate
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44945415/139857367-0ac3e3c9-4fab-44de-a8d7-8a12bb0cc2f4.png" height = "500"/>
-   <img src="https://user-images.githubusercontent.com/44945415/139857998-cb1c84b5-eae2-4e2a-80eb-88ed0e6a6fc7.png" height = "500"/>
+  <a>
+    <img src="https://user-images.githubusercontent.com/44945415/139857367-0ac3e3c9-4fab-44de-a8d7-8a12bb0cc2f4.png" height = "500"/>
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/44945415/139857998-cb1c84b5-eae2-4e2a-80eb-88ed0e6a6fc7.png" height = "500"/>
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="https://user-images.githubusercontent.com/44945415/140310285-b7e8aacf-74fc-4be4-99fa-dba43370a4f8.png" width="500" />
+  </a>
 </p>
 
 
