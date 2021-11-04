@@ -40,7 +40,8 @@ In addition, I like the data industry partly because I have a passion for analys
 
 <p align="center">
   <a>
-    <img src="https://user-images.githubusercontent.com/44945415/140310285-b7e8aacf-74fc-4be4-99fa-dba43370a4f8.png" width="500" />
+    <img src="https://user-images.githubusercontent.com/44945415/140318066-ffcc7b82-5b66-40f5-9e90-eb8bdb553b2d.png" width="500" />
+    <img src="https://user-images.githubusercontent.com/44945415/140317976-62339ecf-4ca0-45c7-8b1a-0a51e08d2cd2.png" width="500" />
   </a>
 </p>
 
